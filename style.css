@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #090f1d;
+  color: white;
+}
+/* body {
+  background-image: url("./img/bagraundimg.svg");
+} */
+li {
+  list-style: none;
+}
